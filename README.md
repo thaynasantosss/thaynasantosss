@@ -1,5 +1,5 @@
 ## 👤 Thayna Santos
-🌱 Estou aprendendo Informática Avançada
+🌱 Aprendendo Informática Avançada
 📫 Email: thayna.2015.09@gmail.com
 📷 Instagram: thayna.santosss
 
