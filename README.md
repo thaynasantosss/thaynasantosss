@@ -13,6 +13,7 @@
 
 <br>
 
+   <img src="https://gifdb.com/images/file/valorant-agent-reyna-sticker-455r2w4o8k1y5d1g.gif" height="200" align="right">
 [![](./microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/fc8ed04c-a843-4ccc-878e-5b0b8dc0b9f7/public_url)
 <!-- - Microsoft Certified: [⭐ Azure Fundamentals](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main)
 <!---
