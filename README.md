@@ -1,4 +1,4 @@
-### 👤 Olá! eu sou a Thayna Santos<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### 👤 Olá! eu sou Thayna Santos<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 🌱 Estou Aprendendo Informática Avançada
 <img align="right" height="350em" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
 
