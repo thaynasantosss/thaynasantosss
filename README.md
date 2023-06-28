@@ -13,8 +13,6 @@
 
 <br>
 
-![Snake animation](https://github.com/thaynasantosss/thaynasantosss/blob/output/github-contribution-grid-snake.svg)
-
 [![](./microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/fc8ed04c-a843-4ccc-878e-5b0b8dc0b9f7/public_url)
 <!-- - Microsoft Certified: [⭐ Azure Fundamentals](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main)
 <!---
