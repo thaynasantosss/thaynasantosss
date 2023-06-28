@@ -13,7 +13,8 @@
 </div>
 
 <br>
- [![](./microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/6380b971-e8f4-4757-a4ab-4cc1a52f95f3/public_url)
+[![](./aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/659c34d2-eb45-461d-bf01-a8f0bd29bacc/public_url) [![](./microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/6380b971-e8f4-4757-a4ab-4cc1a52f95f3/public_url) [![](./microsoft-certified-azure-ai-engineer-associate.png)](https://www.credly.com/badges/1b4ea5af-c2ab-4061-9b32-468a75927fcb/public_url)
+
  
    <img src="https://gifdb.com/images/file/valorant-agent-reyna-sticker-455r2w4o8k1y5d1g.gif" height="200" align="right">
 [![](./microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/fc8ed04c-a843-4ccc-878e-5b0b8dc0b9f7/public_url)
