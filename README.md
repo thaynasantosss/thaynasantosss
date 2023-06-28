@@ -1,17 +1,12 @@
-## 👤 Thayna Santos
-🌱 Aprendendo Informática Avançada
-📫 Email: thayna.2015.09@gmail.com
-📷 Instagram: thayna.santosss
-### Olá! eu sou a Thayna <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
+### 👤 Olá! eu sou a Thayna Santos<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+🌱 Estou Aprendendo Informática Avançada
 <img align="right" height="350em" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaynasantosss)
-[![Gmail](https://img.shields.io/badge/-Gmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=redlink=mailto:thayna.2015.09@gmail.com)](thayna.2015.09@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=whitelink=mailto:thayna.2015.09@gmail.com)](thayna.2015.09@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thayna.santosss_?igshid=YmMyMTA2M2Y=)
 
-![Thayna GitHub stats]()
 
 
 </div>
