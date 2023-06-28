@@ -14,9 +14,7 @@
 </div>
 
 <br>
- [![](./microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/fc8ed04c-a843-4ccc-878e-5b0b8dc0b9f7) 
-![image](https://github.com/thaynasantosss/thaynasantosss/assets/126294655/30e2e40b-1e87-4928-96be-2b48c6973aca)
-
+ [![](./microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/fc8ed04c-a843-4ccc-878e-5b0b8dc0b9f7/public_url) 
 
 https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png
 
