@@ -2,7 +2,7 @@
 🌱 Aprendendo Informática Avançada
 📫 Email: thayna.2015.09@gmail.com
 📷 Instagram: thayna.santosss
-### Olá! eu sou a Victória <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Olá! eu sou a Thayna <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <img align="right" height="350em" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
 
