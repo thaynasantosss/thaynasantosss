@@ -10,18 +10,13 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-0078D4?style=flat-square&logo=microsoft-Gmail&logoColor=whitelink=mailto:thayna.2015.09@gmail.com)](thayna.2015.09@gmail.com) :thayna.2015.09@gmail.com
 
 
-
 </div>
 
 <br>
  [![](./microsoft-certified-azure-ai-fundamentals.png)](https://www.credly.com/badges/fc8ed04c-a843-4ccc-878e-5b0b8dc0b9f7/public_url) 
 
-https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png
+<!-- - Microsoft Certified: [⭐ Azure Fundamentals](https://www.youracclaim.com/badge/fc8ed04c-a843-4ccc-878e-5b0b8dc0b9f7/public_url)
 
-
-
-<!-- - Microsoft Certified: [⭐ Azure Fundamentals](https://www.youracclaim.com/badges/6380b971-e8f4-4757-a4ab-4cc1a52f95f3/public_url)
-<!-- - Microsoft Certified: [⭐ Azure Fundamentals](https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)
  
 
 
