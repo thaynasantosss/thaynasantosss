@@ -1,4 +1,4 @@
-## 👸🏻 Olá! eu sou Thayna Santos<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## 👸🏻 Olá! eu sou Thayna Santos <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 🌱 Estou Aprendendo Informática Avançada
 <img align="right" height="350em" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
 
@@ -15,6 +15,8 @@
 
 <br>
  [![](./microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/6380b971-e8f4-4757-a4ab-4cc1a52f95f3/public_url) 
+ ![image](https://github.com/thaynasantosss/thaynasantosss/assets/126294655/d0f16f71-95c5-4450-a9ad-458938460d03)
+
 <!-- - Microsoft Certified: [⭐ Azure Fundamentals](https://www.youracclaim.com/badges/6380b971-e8f4-4757-a4ab-4cc1a52f95f3/public_url)
 
  
